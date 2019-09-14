@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><class>
+	<student rollno="393">
+		<firstname>Fred Lives</firstname>
+	</student>
+		<student rollno="493">
+			<firstname>Vaneet</firstname>
+	</student>
+		<student rollno="593">
+			<firstname>jasvir</firstname>
+	</student>
+</class>
